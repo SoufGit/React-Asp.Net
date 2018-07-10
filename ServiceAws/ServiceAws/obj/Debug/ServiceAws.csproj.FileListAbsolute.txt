@@ -1,0 +1,199 @@
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\csc.exe
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\vbc.exe
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\VBCSCompiler.exe
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\ServiceAws.dll.config
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\ServiceAws.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\ServiceAws.pdb
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Antlr3.Runtime.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\AWSSDK.Core.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\AWSSDK.S3.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\EntityFramework.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\EntityFramework.SqlServer.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.IdentityModel.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Newtonsoft.Json.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Owin.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Net.Http.Formatting.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Helpers.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Http.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Http.Owin.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Http.WebHost.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Mvc.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Optimization.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Razor.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.WebPages.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.WebPages.Razor.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\WebGrease.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\AWSSDK.Core.pdb
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\AWSSDK.Core.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\AWSSDK.S3.pdb
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\AWSSDK.S3.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Newtonsoft.Json.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Net.Http.Formatting.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Helpers.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Http.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Http.WebHost.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Mvc.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Optimization.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Razor.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.WebPages.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.WebPages.Razor.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Antlr3.Runtime.pdb
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\EntityFramework.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\EntityFramework.SqlServer.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\bin\System.Web.Http.Owin.xml
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\obj\Debug\ServiceAws.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\obj\Debug\ServiceAws.dll
+C:\Users\x\Documents\Visual Studio 2015\Projects\ServiceAws\ServiceAws\obj\Debug\ServiceAws.pdb
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\csc.exe
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\vbc.exe
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\VBCSCompiler.exe
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ServiceAws.dll.config
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ServiceAws.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ServiceAws.pdb
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Antlr3.Runtime.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\AWSSDK.Core.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\AWSSDK.S3.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\EntityFramework.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\EntityFramework.SqlServer.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.IdentityModel.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Newtonsoft.Json.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Owin.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Net.Http.Formatting.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Helpers.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Http.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Http.Owin.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Http.WebHost.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Mvc.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Optimization.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Razor.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.WebPages.Deployment.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.WebPages.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.WebPages.Razor.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\WebGrease.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\AWSSDK.Core.pdb
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\AWSSDK.Core.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\AWSSDK.S3.pdb
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\AWSSDK.S3.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Newtonsoft.Json.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Net.Http.Formatting.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Helpers.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Http.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Http.WebHost.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Mvc.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Optimization.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Razor.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.WebPages.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.WebPages.Deployment.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.WebPages.Razor.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Antlr3.Runtime.pdb
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\EntityFramework.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\EntityFramework.SqlServer.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\System.Web.Http.Owin.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\obj\Debug\ServiceAws.csprojAssemblyReference.cache
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\obj\Debug\ServiceAws.csproj.CoreCompileInputs.cache
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\obj\Debug\ServiceAws.csproj.CopyComplete
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\obj\Debug\ServiceAws.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\obj\Debug\ServiceAws.pdb
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ClearScript.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.Core.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.Msie.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.V8.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.Vroom.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JSPool.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\MsieJavaScriptEngine.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\React.Core.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\React.Web.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\React.Web.Mvc4.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\VroomJs.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\WebActivatorEx.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.Core.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.Msie.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.V8.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JavaScriptEngineSwitcher.Vroom.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\JSPool.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\MsieJavaScriptEngine.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\React.Core.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\React.Web.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\React.Web.Mvc4.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\VroomJs.xml
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ru-ru\JavaScriptEngineSwitcher.Vroom.resources.dll
+D:\Users\AkiisConseil\Project\ServiceAws\ServiceAws\bin\ru-ru\MsieJavaScriptEngine.resources.dll

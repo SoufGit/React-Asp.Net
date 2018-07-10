@@ -1,0 +1,37 @@
+{
+  "name": "test-react-asp.net",
+  "version": "0.1.0",
+  "description": "Test React & Asp.Net",
+  "private": true,
+  "author": "Souf",
+  "dependencies": {
+    "@material-ui/core": "1.3.1",
+    "axios": "0.18.0",
+    "bootstrap": "3.3.7",
+    "classnames": "2.2.6",
+    "material-ui": "0.20.1",
+    "react": "16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "16.4.1",
+    "react-material-ui-form-validator": "2.0.0",
+    "react-scripts": "1.1.4",
+    "react-tap-event-plugin": "3.0.3",
+    "recompose": "0.27.1",
+    "webpack-cli": "3.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "webpack": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-loader": "7.1.5",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "svg-loader": "0.0.2",
+    "webpack": "4.15.1"
+  }
+}
