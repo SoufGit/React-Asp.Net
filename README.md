@@ -2,7 +2,9 @@
 
 ## Prerequis
 
-Visual Studio 2017 
+-    Node
+- Yarn ou Npm
+- Visual Studio 2017 
 
 # Exercices
 
